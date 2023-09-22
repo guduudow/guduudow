@@ -1,6 +1,8 @@
 # Ederes Gure
 
 <img src="cn-tower-canada-wallpaper-1440x900-wallpaper.jpg" width="200">
+
+
 <img src="matrix.jpg" width="200">
 - 👋 Hi, I’m @jaalle1 otherwise known as Ederes!
 - 👀 I’m interested in the world of web development and hope to become a full stack dev
