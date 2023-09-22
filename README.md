@@ -10,6 +10,19 @@
 - 💞️ I’m looking to collaborate on everything related to web dev, in order to learn 📚 as much as possible
 - 📫 Reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ederes-gure-383b87223/)
 
+# Current Levels in Languages
+|Language|Level (1-5)|
+|:-----:|:----:|
+|HTML|2|
+|CSS|2|
+|JavaScript|1|
+|C#|1|
+|SQL|1|
+
+# Why Web Development? 🤨
+
+The technology behind web development is constantly changing and provides so many interesting opportunities. Growing browsing and seeing so many cool and interesting designs has only made me more curious about web technologies, and I hope to work in it!
+
 
 <!---
 jaalle1/jaalle1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
