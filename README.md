@@ -1,9 +1,6 @@
 # Ederes Gure
 
-<img src="images/cn-tower-canada-wallpaper-1440x900-wallpaper.jpg" width="200">
-
-
-<img src="images/matrix.jpg" width="200">
+<img src="images/cn-tower-canada-wallpaper-1440x900-wallpaper.jpg" width="200"> <img src="images/matrix.jpg" width="200">
 
 
 
