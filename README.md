@@ -4,6 +4,9 @@
 
 
 <img src="images/matrix.jpg" width="200">
+
+
+
 - 👋 Hi, I’m @jaalle1 otherwise known as Ederes!
 - 👀 I’m interested in the world of web development and hope to become a full stack dev
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C#, SQL in Humber College's Web Development Post Graduate Program
