@@ -15,7 +15,7 @@
 |:-----:|:----:|
 |HTML|2|
 |CSS|2|
-|JavaScript|1|
+|JavaScript|2|
 |C#|1|
 |SQL|1|
 
