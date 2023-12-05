@@ -13,11 +13,11 @@
 # Current Levels in Languages
 |Language|Level (1-5)|
 |:-----:|:----:|
-|HTML|2|
+|HTML|3|
 |CSS|2|
-|JavaScript|2|
+|JavaScript|3|
 |C#|1|
-|SQL|1|
+|SQL|2|
 
 # Why Web Development? 🤨
 
