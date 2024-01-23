@@ -1,14 +1,9 @@
 # Ederes Gure
 
-<img src="images/cn-tower-canada-wallpaper-1440x900-wallpaper.jpg" width="200"> <img src="images/matrix.jpg" width="200">
+<img src="images/cn-tower-canada-wallpaper-1440x900-wallpaper.jpg" width="200">
 
+Hello! I am @guduudow, otherwise known as Ederes! I am currently a student in Humber College's Web Development Post Graduate program, where I am learning all the essential tools needed in a web developer's kit such as HTML, CSS, JavaScript, MySQL, PHP and more! I have long been amazed by the power of the internet and am excited at the opportunity at joining this ever expanding world. I am looking expand my learning beyond schooling and seek hands-on time whenever I can, you reach me on reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ederes-gure-383b87223/)
 
-
-- 👋 Hi, I’m @guduudow otherwise known as Ederes!
-- 👀 I’m interested in the world of web development and hope to become a full stack dev
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C#, SQL in Humber College's Web Development Post Graduate Program
-- 💞️ I’m looking to collaborate on everything related to web dev, in order to learn 📚 as much as possible
-- 📫 Reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ederes-gure-383b87223/)
 
 # Current Levels in Languages
 |Language|Level (1-5)|
@@ -17,7 +12,7 @@
 |CSS|2|
 |JavaScript|3|
 |C#|1|
-|SQL|2|
+|SQL|3|
 
 # Why Web Development? 🤨
 
