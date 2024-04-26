@@ -9,11 +9,11 @@ Hello! I am Ederes Gure! I am currently a student in Humber College's Web Develo
 |Language|Level (1-5)|
 |:-----:|:----:|
 |HTML|5|
-|CSS|3|
+|CSS|5|
 |JavaScript|4|
-|C#|2|
+|C#|3|
 |SQL|4|
-|PHP|3|
+|PHP|4|
 
 # Why Web Development? 🤨
 
