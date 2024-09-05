@@ -2,22 +2,16 @@
 
 <img src="images/cn-tower-canada-wallpaper-1440x900-wallpaper.jpg" width="200"><img src="images/minimalist.webp" width="200"><img src="images/code-world.jpg" width="200"><img src="images/vector-design-retro-4k.jpeg" width="200">
 
-Hello! I am Ederes Gure! I am currently a student in Humber College's Web Development Post Graduate program, where I am learning all the essential tools needed in a web developer's kit such as HTML, CSS, JavaScript, MySQL, PHP and more! I have long been amazed by the power of the internet and am excited at the opportunity at joining this ever expanding world. I am looking expand my learning beyond schooling and seek hands-on time whenever I can, you reach me on reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ederesgure/)
+👋 Hey there! I'm Ederes Gure, a web developer based out of Toronto, Ontario that is passionate about turning ideas into interactive, responsive websites and web apps! 💻✨
 
+🚀 What I love building:
 
-# Current Levels in Languages
-|Language|Level (1-5)|
-|:-----:|:----:|
-|HTML|5|
-|CSS|5|
-|JavaScript|4|
-|C#|3|
-|SQL|4|
-|PHP|4|
+- Frontend Magic: Crafting sleek UIs with HTML, CSS, JavaScript, React, and Next.js 🎨
+- Backend Power: Building strong, scalable servers using Node.js, Express, and databases like MongoDB & MySQL ⚙️🔗
+- API Wizardry: Designing & consuming RESTful APIs with seamless third-party integrations 🌐🛠️
+- Collaboration: Teamwork with Git, GitHub, and agile workflows to bring projects to life 🚧🤝
 
-# Why Web Development? 🤨
-
-The technology behind web development is constantly changing and provides so many interesting opportunities. Growing browsing and seeing so many cool and interesting designs has only made me more curious about web technologies, and I hope to work in it!
+🔭 Always down with exploring new tech and challenging myself with fun projects. Ready to delve into a new work environment and see how others tackle problems. Check out my work and let’s create something amazing together! 👨‍💻
 
 
 <!---
